@@ -11237,6 +11237,14 @@ video {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+.font-customalata {
+  font-family: Alata, sans-serif;
+}
+
+.font-customjosefin {
+  font-family: Josefin Sans, sans-serif;
+}
+
 .font-thin {
   font-weight: 100;
 }
@@ -42518,6 +42526,14 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .sm\:font-customalata {
+    font-family: Alata, sans-serif;
+  }
+
+  .sm\:font-customjosefin {
+    font-family: Josefin Sans, sans-serif;
+  }
+
   .sm\:font-thin {
     font-weight: 100;
   }
@@ -73627,6 +73643,14 @@ video {
 
   .md\:font-mono {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .md\:font-customalata {
+    font-family: Alata, sans-serif;
+  }
+
+  .md\:font-customjosefin {
+    font-family: Josefin Sans, sans-serif;
   }
 
   .md\:font-thin {
@@ -104740,6 +104764,14 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .lg\:font-customalata {
+    font-family: Alata, sans-serif;
+  }
+
+  .lg\:font-customjosefin {
+    font-family: Josefin Sans, sans-serif;
+  }
+
   .lg\:font-thin {
     font-weight: 100;
   }
@@ -135851,6 +135883,14 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .xl\:font-customalata {
+    font-family: Alata, sans-serif;
+  }
+
+  .xl\:font-customjosefin {
+    font-family: Josefin Sans, sans-serif;
+  }
+
   .xl\:font-thin {
     font-weight: 100;
   }
@@ -166960,6 +167000,14 @@ video {
 
   .\32xl\:font-mono {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .\32xl\:font-customalata {
+    font-family: Alata, sans-serif;
+  }
+
+  .\32xl\:font-customjosefin {
+    font-family: Josefin Sans, sans-serif;
   }
 
   .\32xl\:font-thin {
