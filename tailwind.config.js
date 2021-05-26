@@ -27,7 +27,7 @@ module.exports = {
         girdmbl: 'url("./images/mobile/image-grid.jpg")',
         girddskp: 'url("./images/desktop/image-grid.jpg")',
         frmabvmbl: 'url("./images/mobile/image-from-above.jpg")',
-        frmabvdskp: 'url("./images/desktop999/image-from-above.jpg")',
+        frmabvdskp: 'url("./images/desktop/image-from-above.jpg")',
         pktmbl: 'url("./images/mobile/image-pocket-borealis.jpg")',
         pktdskp: 'url("./images/desktop/image-pocket-borealis.jpg")',
         curiousmbl: 'url("./images/mobile/image-curiosity.jpg")',
@@ -35,9 +35,7 @@ module.exports = {
         madeitmbl: 'url("./images/mobile/image-fisheye.jpg")',
         madeitdskp: 'url("./images/desktop/image-fisheye.jpg")',
       },
-      inset: {
-        '1/5': '31%',
-      },
+
 
     },
   },
